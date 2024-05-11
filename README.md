@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Wasm & Go programming.
 - 💞️ I’m looking to collaborate on challenging frontend codebase.
 - 📫 How to reach me 
-    shivnandanbhumca@gmail.com
+    shivnandanbhumca10@gmail.com
     +91 88826 89926
 
 <!---
