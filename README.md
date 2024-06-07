@@ -2,6 +2,7 @@
 - 👀 I’m interested in Solving Frontend Challenges using Javascript.
 - 🌱 I’m currently learning Wasm & Go programming.
 - 💞️ I’m looking to collaborate on challenging frontend codebase.
+- ✨ LinkedIn Profile - https://linkedin.com/in/shiv20986
 - 📫 How to reach me 
     shivnandanbhumca10@gmail.com
     +91 88826 89926
